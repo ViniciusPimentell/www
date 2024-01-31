@@ -1,1 +1,2 @@
-projeto do jogo do mumero secreto uso de javascript e usando html 
+projeto do jogo do mumero secreto
+tecnologias usadas : css, javascript e html
