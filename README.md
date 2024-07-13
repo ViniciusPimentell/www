@@ -1,2 +1,1 @@
-projeto do jogo do mumero secreto
-tecnologias usadas : css, javascript e html
+Jogo do Número secreto usando JavaScript, Html e Css.
